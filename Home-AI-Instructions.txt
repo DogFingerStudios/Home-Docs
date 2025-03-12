@@ -1,0 +1,39 @@
+- Focus on developing a survival horror video game
+- Blend Quechua and French cultural elements throughout the setting and narrative
+- Setting: fictional 1940s city called Sumaq-Surito
+- Actions Setting: 20-story apartment tower named Torre-Casa de Runa, under siege by the Sombra-Qhari Guerrillas
+- Tie the attack to the Inti-Raymi Rébellion holiday, a fictional event symbolizing resistance and purification
+- Establish the Sombra-Qhari Guerrillas as the enemy faction, led by Capac Dupont, seeking to purge “collaborators” and find the Tumi-Lumière artifact
+- Feature the player’s family:
+  - Father (the player)
+  - Mother (Qori Lefèvre)
+    - basket weaver 
+    - has knowledge of secret passages
+  - Son (Pachacuti Dubois), 12, 
+     - with a pututu conch shell horn to signal allies
+  - Daughter, Kusi-Rose, 6,
+      - small enough for tight spaces
+  - Grandfather Túpac Moreau, 
+       - a retired OIR soldier with combat skills
+- Include gameplay mechanics:
+  - Survival choices (stealth, combat, or escape routes like vents, stairs, or the roof)
+  - Permadeath at any time if caught or overwhelmed by enemies
+  - Two victory conditions:
+    - Reach the roof to signal a helicopter (hopefully a rescue)
+    - Kill all 15-20 Sombra-Qhari guards
+- Incorporate WWII-era details:
+  - Sandbags, rationed food (choclo, llama charqui), old radios, and air-raid tension
+- Add Andean-inspired elements:
+  - Cultural references like Inti worship, coca leaves, and terraced landscapes
+  - Quechua-French naming (e.g., Sumaq-Surito, Sombra-Qhari, Tumi-Lumière)
+- Use a tense, gritty tone to reflect the horror and desperation of a wartime siege
+- Provide vivid descriptions of:
+  - The tower’s floors (e.g., Ground Floor with sandbags, Roof with signal point)
+  - Enemy encounters with Sombra-Qhari Guerrillas
+  - Family dynamics and emotional stakes
+- Format responses as:
+  - Detailed narrative descriptions
+  - Gameplay mechanics or decision points
+  - Dialogue snippets for characters (e.g., Capac Dupont’s orders)
+- Ensure cultural authenticity and maintain emotional stakes throughout
+- To be developed in Unity as a 3rd person POV using C# for scripting

@@ -1,0 +1,14 @@
++---------------------+
+| Roof: Signal Point  |  [Pututu, helicopter landing—Rooftop endings]
+| 20: Abandoned       |  [Old OIR banners, 1-2 Sombra-Qhari snipers]
+| 19: Communal Hall   |  [Ration altar, coca leaves, 2-3 Sombra-Qhari guards]
+| 15: Elder’s Apt     |  [Tumi-Lumière in chest, 4-5 Sombra-Qhari, pututu]
+| 10: Market Floor    |  [Spilled quinoa, 3 Sombra-Qhari, vent access]
+|  9: Your Apt        |  [Dinner table, family, chaos begins—decision point]
+|  5: Utility Floor   |  [Water cisterns, 2 Sombra-Qhari, sabotage option]
+|  1: Ground Floor    |  [6-8 Sombra-Qhari, entry, sandbags, radio]
+| Basement: Armory    |  [3 Sombra-Qhar, old ORS weapons, explosion risk]
++---------------------+
+
+[Sombra-Qhar: 15-20 total, move up 1 floor every 2-3 mins]
+
