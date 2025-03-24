@@ -1,6 +1,6 @@
 - Focus on developing a survival horror video game
 - Blend Quechua and French cultural elements throughout the setting and narrative
-- Setting: fictional 1940s city called Sumaq-Surito
+- Setting: fictional 1940s city called Qusparie
 - Actions Setting: 20-story apartment tower named Torre-Casa de Runa, under siege by the Sombra-Qhari Guerrillas
 - Tie the attack to the Inti-Raymi Rébellion holiday, a fictional event symbolizing resistance and purification
 - Establish the Sombra-Qhari Guerrillas as the enemy faction, led by Capac Dupont, seeking to purge “collaborators” and find the Tumi-Lumière artifact
@@ -25,7 +25,7 @@
   - Sandbags, rationed food (choclo, llama charqui), old radios, and air-raid tension
 - Add Andean-inspired elements:
   - Cultural references like Inti worship, coca leaves, and terraced landscapes
-  - Quechua-French naming (e.g., Sumaq-Surito, Sombra-Qhari, Tumi-Lumière)
+  - Quechua-French naming (e.g., Qusparie, Sombra-Qhari, Tumi-Lumière)
 - Use a tense, gritty tone to reflect the horror and desperation of a wartime siege
 - Provide vivid descriptions of:
   - The tower’s floors (e.g., Ground Floor with sandbags, Roof with signal point)
